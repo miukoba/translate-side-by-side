@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "translate side-by-side",
+    "description": "翻訳前と後を並べて表示します",
+    "background": {
+        "scripts": [ "js/background.js" ]
+    },
+    "browser_action": {
+        "default_icon": "images/icon_128.png"
+    },
+    "icons": {
+        "16": "images/icon_16.png",
+        "48": "images/icon_48.png",
+        "128": "images/icon_128.png"
+    },
+    "permissions": [
+        "tabs",
+        "http://*/*",
+        "https://*/*"
+    ],
+    "version": "0.1"
+}
