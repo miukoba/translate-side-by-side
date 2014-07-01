@@ -1,3 +1,11 @@
+About
+--------------------------
+
+翻訳前と後を並べて表示するChromeの拡張機能
+
+![demo](https://raw.githubusercontent.com/miukoba/translate-side-by-side/master/demo.gif)
+
+
 Install
 --------------------------
 
